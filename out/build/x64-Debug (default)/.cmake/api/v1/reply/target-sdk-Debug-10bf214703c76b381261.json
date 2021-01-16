@@ -1,0 +1,460 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/sdk.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"add_compile_options",
+			"include",
+			"include_directories",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/CMakeLists.txt",
+			"CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake",
+			"cmake/vst_cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 218,
+				"parent" : 3
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 24,
+				"parent" : 5
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 85,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 87,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 79,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 128,
+				"parent" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/ZI"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "/MDd"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/base/.."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/.."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				6,
+				8,
+				13,
+				14,
+				16,
+				19,
+				21,
+				23,
+				27,
+				28,
+				30,
+				32,
+				34
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "pluginterfaces::@de2134b4c25d8dd8b973"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "base::@c74692c1827f33861d65"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libraries"
+	},
+	"id" : "sdk::@216771f3034513c86889",
+	"name" : "sdk",
+	"nameOnDisk" : "sdk.lib",
+	"paths" : 
+	{
+		"build" : "cmake/vst_cmake/public.sdk",
+		"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "public.sdk",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/commoniids.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/openurl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/openurl.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/pluginview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/pluginview.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/threadchecker_linux.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/threadchecker_win32.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/common/threadchecker.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/main/pluginfactory.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/main/pluginfactory.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/processcontextrequirements.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/ringbuffer.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/vst2persistence.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/utility/vst2persistence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstaudioeffect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstaudioeffect.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstbus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstbus.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstbypassprocessor.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstcomponent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstcomponent.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstcomponentbase.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstcomponentbase.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vsteditcontroller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vsteditcontroller.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vsteventshelper.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vsthelpers.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstinitiids.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstnoteexpressiontypes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstnoteexpressiontypes.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstparameters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstparameters.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstpresetfile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstpresetfile.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstrepresentation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstrepresentation.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

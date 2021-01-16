@@ -1,0 +1,1162 @@
+[
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DVSTGUI_DIRECT2D_SUPPORT=1 -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\CMakeFiles\\vstgui_support.dir\\C_\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3groupcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3groupcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3groupcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DVSTGUI_DIRECT2D_SUPPORT=1 -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\CMakeFiles\\vstgui_support.dir\\C_\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3padcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3padcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3padcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DVSTGUI_DIRECT2D_SUPPORT=1 -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\CMakeFiles\\vstgui_support.dir\\C_\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3editor.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3editor.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\plugin-bindings\\vst3editor.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DVSTGUI_DIRECT2D_SUPPORT=1 -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\CMakeFiles\\vstgui_support.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstguieditor.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstguieditor.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstguieditor.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\pluginterfaces\\CMakeFiles\\pluginterfaces.dir\\base\\conststringtable.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\conststringtable.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\conststringtable.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\pluginterfaces\\CMakeFiles\\pluginterfaces.dir\\base\\coreiids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\coreiids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\coreiids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\pluginterfaces\\CMakeFiles\\pluginterfaces.dir\\base\\funknown.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\funknown.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\funknown.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\pluginterfaces\\CMakeFiles\\pluginterfaces.dir\\base\\ustring.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\ustring.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\base\\ustring.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\baseiids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\baseiids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\baseiids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fbuffer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fbuffer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fbuffer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fdebug.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fdebug.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fdebug.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fdynlib.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fdynlib.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fdynlib.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fobject.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fobject.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fobject.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fstreamer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fstreamer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fstreamer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\fstring.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fstring.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\fstring.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\timer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\timer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\timer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\source\\updatehandler.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\updatehandler.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\source\\updatehandler.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\thread\\source\\fcondition.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\thread\\source\\fcondition.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\thread\\source\\fcondition.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\base\\CMakeFiles\\base.dir\\thread\\source\\flock.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\thread\\source\\flock.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\thread\\source\\flock.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\common\\commoniids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\commoniids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\commoniids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\common\\openurl.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\openurl.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\openurl.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\common\\pluginview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\pluginview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\pluginview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\common\\threadchecker_linux.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\threadchecker_linux.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\threadchecker_linux.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\common\\threadchecker_win32.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\threadchecker_win32.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\threadchecker_win32.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\main\\pluginfactory.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\main\\pluginfactory.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\main\\pluginfactory.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\utility\\vst2persistence.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\utility\\vst2persistence.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\utility\\vst2persistence.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstaudioeffect.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstaudioeffect.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstaudioeffect.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstbus.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstbus.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstbus.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstcomponent.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstcomponent.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstcomponent.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstcomponentbase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstcomponentbase.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstcomponentbase.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vsteditcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vsteditcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vsteditcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstinitiids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstinitiids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstinitiids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstnoteexpressiontypes.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstnoteexpressiontypes.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstnoteexpressiontypes.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstparameters.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstparameters.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstparameters.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstpresetfile.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstpresetfile.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstpresetfile.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\pluginterfaces\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\CMakeFiles\\sdk.dir\\source\\vst\\vstrepresentation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstrepresentation.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstrepresentation.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\memorystream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\memorystream.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\common\\memorystream.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\connectionproxy.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\connectionproxy.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\connectionproxy.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\hostclasses.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\hostclasses.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\hostclasses.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\pluginterfacesupport.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\pluginterfacesupport.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\pluginterfacesupport.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\plugprovider.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\plugprovider.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\plugprovider.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\processdata.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\processdata.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\processdata.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busactivation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busactivation.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busactivation.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busconsistency.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busconsistency.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\busconsistency.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\businvalidindex.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\businvalidindex.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\businvalidindex.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\bus\\checkaudiobusarrangement.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\checkaudiobusarrangement.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\checkaudiobusarrangement.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\scanbusses.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\scanbusses.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\scanbusses.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\sidechainarrangement.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\sidechainarrangement.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\bus\\sidechainarrangement.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\editorclasses.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\editorclasses.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\editorclasses.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midilearn.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midilearn.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midilearn.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midimapping.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midimapping.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\midimapping.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\scanparameters.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\scanparameters.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\scanparameters.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\suspendresume.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\suspendresume.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\suspendresume.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\terminit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\terminit.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\general\\terminit.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\noteexpression\\keyswitch.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\noteexpression\\keyswitch.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\noteexpression\\keyswitch.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\noteexpression\\noteexpression.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\noteexpression\\noteexpression.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\noteexpression\\noteexpression.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\automation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\automation.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\automation.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\process.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\process.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\process.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\7e9887088a111071c937a264ef2ef2b6\\vst\\testsuite\\processing\\processcontextrequirements.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processcontextrequirements.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processcontextrequirements.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processformat.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processformat.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processformat.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\processing\\processinputoverwriting.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processinputoverwriting.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processinputoverwriting.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processtail.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processtail.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processtail.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\processing\\processthreaded.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processthreaded.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\processthreaded.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\silenceflags.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\silenceflags.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\silenceflags.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\processing\\silenceprocessing.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\silenceprocessing.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\silenceprocessing.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\processing\\speakerarrangement.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\speakerarrangement.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\speakerarrangement.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\processing\\variableblocksize.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\variableblocksize.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\processing\\variableblocksize.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\bypasspersistence.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\bypasspersistence.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\bypasspersistence.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\state\\invalidstatetransition.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\invalidstatetransition.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\invalidstatetransition.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\7e9887088a111071c937a264ef2ef2b6\\vst\\testsuite\\state\\repeatidenticalstatetransition.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\repeatidenticalstatetransition.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\repeatidenticalstatetransition.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\c7ffe6a47666db50cfe7262f2dcdb47e\\source\\vst\\testsuite\\state\\validstatetransition.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\validstatetransition.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\state\\validstatetransition.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\testbase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\testbase.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\testbase.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\checkunitstructure.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\checkunitstructure.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\checkunitstructure.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanprograms.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanprograms.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanprograms.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanunits.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanunits.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\unit\\scanunits.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\vsttestsuite.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\vsttestsuite.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\testsuite\\vsttestsuite.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\utility\\stringconvert.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\utility\\stringconvert.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\utility\\stringconvert.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstinitiids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstinitiids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstinitiids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\source\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\main.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\main.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\source\\usediids.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\usediids.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\usediids.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\source\\validator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\validator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\samples\\vst-hosting\\validator\\source\\validator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\public.sdk\\samples\\vst-hosting\\validator\\CMakeFiles\\validator.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module_win32.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module_win32.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\hosting\\module_win32.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\PluginKernel\\pluginbase.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginKernel\\pluginbase.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/PluginKernel/pluginbase.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\PluginKernel\\plugincore.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginKernel\\plugincore.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/PluginKernel/plugincore.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\PluginKernel\\plugingui.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginKernel\\plugingui.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/PluginKernel/plugingui.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\PluginKernel\\pluginparameter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginKernel\\pluginparameter.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/PluginKernel/pluginparameter.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\vst_source\\factory.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\vst_source\\factory.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/vst_source/factory.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\vst_source\\customparameters.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\vst_source\\customparameters.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/vst_source/customparameters.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\vst_source\\vst3plugin.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\vst_source\\vst3plugin.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/vst_source/vst3plugin.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\CustomControls\\customcontrols.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\CustomControls\\customcontrols.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/CustomControls/customcontrols.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\source\\CustomControls\\customviews.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\CustomControls\\customviews.cpp",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/source/CustomControls/customviews.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstsinglecomponenteffect.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstsinglecomponenteffect.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\vst\\vstsinglecomponenteffect.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginKernel -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\PluginObjects -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\CustomControls -I..\\..\\..\\project_source\\cmake\\vst_cmake\\..\\..\\source\\vst_source -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\base\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /wd4221 /Foproject_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\C_\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\main\\dllmain.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\main\\dllmain.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK\\public.sdk\\source\\main\\dllmain.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100183~1.0\\x64\\rc.exe -DASE_KM_Caverb_VST_EXPORTS -DVSTGUI_DIRECT2D_SUPPORT=1 -DVSTGUI_LIVE_EDITING=1 -DVSTPLUGIN=1 -D_CRT_SECURE_NO_WARNINGS -I C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -I C:\\SDK\\ALL_SDK\\myprojects -I C:\\SDK\\ALL_SDK\\myprojects\\vstgui4 -I C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source -I C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginKernel -I C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\PluginObjects -I C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\CustomControls -I C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\source\\vst_source -I C:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -DWIN32 -D_DEBUG -DDEVELOPMENT=1 -DSMTG_RENAME_ASSERT=1 /fo project_source\\cmake\\vst_cmake\\CMakeFiles\\ASE_KM_Caverb_VST.dir\\__\\__\\win\\vst\\PluginGUIMain.rc.res C:\\SDK\\ALL_SDK\\myprojects\\ase_km_caverb\\project_source\\win\\vst\\PluginGUIMain.rc",
+  "file": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/win/vst/PluginGUIMain.rc"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\animation\\animations.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\animations.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\animations.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\animation\\animator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\animator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\animator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\animation\\timingfunctions.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\timingfunctions.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\animation\\timingfunctions.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cbitmap.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cbitmap.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cbitmap.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cbitmapfilter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cbitmapfilter.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cbitmapfilter.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\ccolor.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ccolor.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ccolor.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cdatabrowser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdatabrowser.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdatabrowser.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cdrawcontext.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdrawcontext.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdrawcontext.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cdrawmethods.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdrawmethods.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdrawmethods.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cdropsource.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdropsource.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cdropsource.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cfileselector.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cfileselector.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cfileselector.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cfont.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cfont.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cfont.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cframe.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cframe.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cframe.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cgradientview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cgradientview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cgradientview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cgraphicspath.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cgraphicspath.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cgraphicspath.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\clayeredviewcontainer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\clayeredviewcontainer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\clayeredviewcontainer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\clinestyle.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\clinestyle.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\clinestyle.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\coffscreencontext.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\coffscreencontext.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\coffscreencontext.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cautoanimation.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cautoanimation.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cautoanimation.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cbuttons.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cbuttons.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cbuttons.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\ccolorchooser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ccolorchooser.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ccolorchooser.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\ccontrol.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ccontrol.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ccontrol.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cfontchooser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cfontchooser.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cfontchooser.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cknob.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cknob.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cknob.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\clistcontrol.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\clistcontrol.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\clistcontrol.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cmoviebitmap.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cmoviebitmap.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cmoviebitmap.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cmoviebutton.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cmoviebutton.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cmoviebutton.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\coptionmenu.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\coptionmenu.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\coptionmenu.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cparamdisplay.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cparamdisplay.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cparamdisplay.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cscrollbar.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cscrollbar.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cscrollbar.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\csearchtextedit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csearchtextedit.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csearchtextedit.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\csegmentbutton.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csegmentbutton.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csegmentbutton.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cslider.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cslider.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cslider.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cspecialdigit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cspecialdigit.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cspecialdigit.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\csplashscreen.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csplashscreen.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\csplashscreen.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cstringlist.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cstringlist.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cstringlist.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cswitch.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cswitch.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cswitch.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\ctextedit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ctextedit.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ctextedit.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\ctextlabel.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ctextlabel.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\ctextlabel.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cvumeter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cvumeter.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cvumeter.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\controls\\cxypad.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cxypad.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\controls\\cxypad.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\copenglview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\copenglview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\copenglview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cpoint.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cpoint.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cpoint.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\crect.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\crect.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\crect.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\crowcolumnview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\crowcolumnview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\crowcolumnview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cscrollview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cscrollview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cscrollview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cshadowviewcontainer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cshadowviewcontainer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cshadowviewcontainer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\csplitview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\csplitview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\csplitview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cstring.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cstring.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cstring.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\ctabview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ctabview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ctabview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\ctooltipsupport.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ctooltipsupport.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\ctooltipsupport.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cviewcontainer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cviewcontainer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cviewcontainer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\cvstguitimer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cvstguitimer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\cvstguitimer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\genericstringlistdatabrowsersource.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\genericstringlistdatabrowsersource.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\genericstringlistdatabrowsersource.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\common\\genericoptionmenu.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\common\\genericoptionmenu.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\common\\genericoptionmenu.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\vstguidebug.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\vstguidebug.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\vstguidebug.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\common\\fileresourceinputstream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\common\\fileresourceinputstream.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\common\\fileresourceinputstream.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\direct2d\\d2dbitmap.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dbitmap.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dbitmap.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\direct2d\\d2ddrawcontext.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2ddrawcontext.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2ddrawcontext.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\direct2d\\d2dfont.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dfont.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dfont.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\direct2d\\d2dgraphicspath.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dgraphicspath.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\direct2d\\d2dgraphicspath.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32datapackage.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32datapackage.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32datapackage.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32dragging.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32dragging.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32dragging.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32frame.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32frame.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32frame.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32openglview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32openglview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32openglview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32optionmenu.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32optionmenu.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32optionmenu.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32support.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32support.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32support.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\win32textedit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32textedit.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\win32textedit.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\winfileselector.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\winfileselector.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\winfileselector.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\winstring.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\winstring.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\winstring.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 /Focmake\\vst_cmake\\vstgui4\\vstgui\\lib\\CMakeFiles\\vstgui.dir\\platform\\win32\\wintimer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\wintimer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\lib\\platform\\win32\\wintimer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\compresseduidescription.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\compresseduidescription.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\compresseduidescription.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\cstream.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\cstream.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\cstream.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\uiattributes.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiattributes.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiattributes.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\uidescription.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uidescription.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uidescription.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\uiviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\uiviewfactory.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewfactory.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewfactory.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\uiviewswitchcontainer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewswitchcontainer.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\uiviewswitchcontainer.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\xmlparser.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\xmlparser.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\xmlparser.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uiactions.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiactions.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiactions.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uiattributescontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiattributescontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiattributescontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uibitmapscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uibitmapscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uibitmapscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uicolor.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolor.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolor.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uicolorchoosercontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorchoosercontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorchoosercontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uicolorscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uicolorslider.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorslider.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicolorslider.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uicrosslines.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicrosslines.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uicrosslines.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uidialogcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uidialogcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uidialogcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uieditcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uieditmenucontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditmenucontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditmenucontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uieditview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uieditview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uifocussettingscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uifocussettingscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uifocussettingscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uifontscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uifontscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uifontscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uigradientscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uigradientscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uigradientscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uigridcontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uigridcontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uigridcontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uioverlayview.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uioverlayview.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uioverlayview.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uiselection.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiselection.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiselection.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uitagscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitagscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitagscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uitemplatecontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitemplatecontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitemplatecontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uitemplatesettingscontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitemplatesettingscontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uitemplatesettingscontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uiundomanager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiundomanager.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiundomanager.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\editing\\uiviewcreatecontroller.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiviewcreatecontroller.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\editing\\uiviewcreatecontroller.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\animationsplashscreencreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\animationsplashscreencreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\animationsplashscreencreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\animknobcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\animknobcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\animknobcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\checkboxcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\checkboxcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\checkboxcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\controlcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\controlcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\controlcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\gradientviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\gradientviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\gradientviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\kickbuttoncreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\kickbuttoncreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\kickbuttoncreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\knobcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\knobcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\knobcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\layeredviewcontainercreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\layeredviewcontainercreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\layeredviewcontainercreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\moviebitmapcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\moviebitmapcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\moviebitmapcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\moviebuttoncreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\moviebuttoncreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\moviebuttoncreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\multibitmapcontrolcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\multibitmapcontrolcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\multibitmapcontrolcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\multilinetextlabelcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\multilinetextlabelcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\multilinetextlabelcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\onoffbuttoncreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\onoffbuttoncreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\onoffbuttoncreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\optionmenucreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\optionmenucreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\optionmenucreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\paramdisplaycreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\paramdisplaycreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\paramdisplaycreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\rockerswitchcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\rockerswitchcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\rockerswitchcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\rowcolumnviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\rowcolumnviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\rowcolumnviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\scrollviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\scrollviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\scrollviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\searchtexteditcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\searchtexteditcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\searchtexteditcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\segmentbuttoncreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\segmentbuttoncreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\segmentbuttoncreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\shadowviewcontainercreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\shadowviewcontainercreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\shadowviewcontainercreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\sliderviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\sliderviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\sliderviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\splitviewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\splitviewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\splitviewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\stringlistcontrolcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\stringlistcontrolcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\stringlistcontrolcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\switchcreators.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\switchcreators.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\switchcreators.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\textbuttoncreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\textbuttoncreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\textbuttoncreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\texteditcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\texteditcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\texteditcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\textlabelcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\textlabelcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\textlabelcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\uiviewswitchcontainercreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\uiviewswitchcontainercreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\uiviewswitchcontainercreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\viewcontainercreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\viewcontainercreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\viewcontainercreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\viewcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\viewcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\viewcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\vumetercreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\vumetercreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\vumetercreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\uidescription\\CMakeFiles\\vstgui_uidescription.dir\\viewcreator\\xypadcreator.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\xypadcreator.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\uidescription\\viewcreator\\xypadcreator.cpp"
+},
+{
+  "directory": "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DDEBUG -DVSTGUI_ENABLE_DEPRECATED_METHODS=1 -DVSTGUI_LIVE_EDITING -D_CRT_SECURE_NO_WARNINGS -IC:\\SDK\\ALL_SDK\\VST_SDK\\VST3_SDK -IC:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\tools\\uidesccompressor\\..\\..\\.. /DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1 /fp:fast -DDEVELOPMENT=1 /MP /ZI /MDd -DSMTG_RENAME_ASSERT=1 -std:c++14 /Focmake\\vst_cmake\\vstgui4\\vstgui\\tools\\uidesccompressor\\CMakeFiles\\uidesccompressor.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\tools\\uidesccompressor\\main.cpp",
+  "file": "C:\\SDK\\ALL_SDK\\myprojects\\vstgui4\\vstgui\\tools\\uidesccompressor\\main.cpp"
+}
+]

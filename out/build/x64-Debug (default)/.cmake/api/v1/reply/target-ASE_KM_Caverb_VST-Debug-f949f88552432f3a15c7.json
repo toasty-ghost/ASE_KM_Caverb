@@ -1,0 +1,738 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "VST3/Debug/ASE_KM_Caverb_VST.vst3/Contents/x86_64-win/ASE_KM_Caverb_VST.vst3"
+		},
+		{
+			"path" : "cmake/vst_cmake/WIN_PDB64/ASE_KM_Caverb_VST.pdb"
+		}
+	],
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"smtg_add_vst3plugin_with_pkgname",
+			"smtg_add_vst3plugin",
+			"target_link_libraries",
+			"add_dependencies",
+			"smtg_run_vst_validator",
+			"add_compile_options",
+			"include",
+			"target_compile_options",
+			"smtg_make_plugin_package",
+			"add_definitions",
+			"include_directories",
+			"target_include_directories",
+			"target_sources",
+			"smtg_add_library_main"
+		],
+		"files" : 
+		[
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddVST3Library.cmake",
+			"project_source/cmake/vst_cmake/CMakeLists.txt",
+			"CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake",
+			"cmake/vst_cmake/CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddSMTGLibrary.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 115,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 97,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 186,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 5
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 218,
+				"parent" : 7
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 24,
+				"parent" : 9
+			},
+			{
+				"file" : 3,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 80,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 85,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 87,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 93,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 79,
+				"parent" : 9
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 2
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 310,
+				"parent" : 17
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 191,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 213,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 4,
+				"line" : 128,
+				"parent" : 9
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 119,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 121,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 122,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 123,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 125,
+				"parent" : 0
+			},
+			{
+				"command" : 14,
+				"file" : 5,
+				"line" : 233,
+				"parent" : 17
+			},
+			{
+				"command" : 13,
+				"file" : 5,
+				"line" : 149,
+				"parent" : 29
+			},
+			{
+				"command" : 13,
+				"file" : 1,
+				"line" : 204,
+				"parent" : 0
+			},
+			{
+				"command" : 13,
+				"file" : 1,
+				"line" : 205,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 14,
+					"fragment" : "/ZI"
+				},
+				{
+					"backtrace" : 15,
+					"fragment" : "/MDd"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "/wd4221"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ASE_KM_Caverb_VST_EXPORTS"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "VSTGUI_DIRECT2D_SUPPORT=1"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "VSTGUI_LIVE_EDITING=1"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "VSTPLUGIN=1"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 21,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/SDK/ALL_SDK/myprojects"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/PluginKernel"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/PluginObjects"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/CustomControls"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/vst_source"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/base/.."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				7,
+				8,
+				9,
+				10,
+				11,
+				13,
+				16,
+				21,
+				22,
+				23,
+				25
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DWIN32 -D_DEBUG"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ASE_KM_Caverb_VST_EXPORTS"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "VSTGUI_DIRECT2D_SUPPORT=1"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "VSTGUI_LIVE_EDITING=1"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "VSTPLUGIN=1"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 21,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/SDK/ALL_SDK/myprojects"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/PluginKernel"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/PluginObjects"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/CustomControls"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/project_source/cmake/vst_cmake/../../source/vst_source"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/base/.."
+				}
+			],
+			"language" : "RC",
+			"sourceIndexes" : 
+			[
+				26
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "pluginterfaces::@de2134b4c25d8dd8b973"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "vstgui_support::@3996d89d3b088a936272"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "sdk::@216771f3034513c86889"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "validator::@f15499223eb6d6f81789"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "base::@c74692c1827f33861d65"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "vstgui::@96ea5e6a1399a2d258e7"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "vstgui_uidescription::@6463756df16f1c826622"
+		}
+	],
+	"id" : "ASE_KM_Caverb_VST::@38992bb1aadedcf93286",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /EXPORT:GetPluginFactory",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "..\\..\\..\\lib\\base.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "..\\..\\..\\lib\\sdk.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "..\\..\\..\\lib\\vstgui_support.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "..\\..\\..\\lib\\base.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "..\\..\\..\\lib\\pluginterfaces.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "..\\..\\..\\lib\\vstgui_uidescription.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "..\\..\\..\\lib\\vstgui.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "ASE_KM_Caverb_VST",
+	"nameOnDisk" : "ASE_KM_Caverb_VST.vst3",
+	"paths" : 
+	{
+		"build" : "project_source/cmake/vst_cmake",
+		"source" : "project_source/cmake/vst_cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "PluginKernel",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "VST3Core",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"name" : "CustomVSTGUI",
+			"sourceIndexes" : 
+			[
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			]
+		},
+		{
+			"name" : "VST3SDK",
+			"sourceIndexes" : 
+			[
+				23,
+				24
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				25,
+				26
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				27
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/guiconstants.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/pluginbase.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/plugincore.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/plugindescription.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/plugingui.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/pluginparameter.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/PluginKernel/pluginstructures.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/PluginKernel/pluginbase.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/PluginKernel/plugincore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/PluginKernel/plugingui.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/PluginKernel/pluginparameter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/vst_source/factory.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/vst_source/customparameters.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/vst_source/customparameters.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/vst_source/channelformats.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/vst_source/vst3plugin.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/vst_source/vst3plugin.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/CustomControls/atomicops.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/CustomControls/customcontrols.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/CustomControls/readerwriterqueue.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"path" : "project_source/source/CustomControls/customviews.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/CustomControls/customcontrols.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "project_source/source/CustomControls/customviews.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstsinglecomponenteffect.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 3,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstsinglecomponenteffect.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 30,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/main/dllmain.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 31,
+			"compileGroupIndex" : 1,
+			"path" : "project_source/win/vst/PluginGUIMain.rc",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 32,
+			"path" : "project_source/resources/PluginGUI.uidesc",
+			"sourceGroupIndex" : 5
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

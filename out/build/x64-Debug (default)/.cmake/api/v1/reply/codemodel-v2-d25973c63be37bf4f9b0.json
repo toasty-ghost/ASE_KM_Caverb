@@ -1,0 +1,385 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "cmake/vst_cmake",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						9,
+						10
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake/vst_cmake",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/pluginterfaces",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/base",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/base",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/public.sdk",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/public.sdk/samples/vst-hosting",
+					"childIndexes" : 
+					[
+						6,
+						7,
+						8
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting"
+				},
+				{
+					"build" : "cmake/vst_cmake/public.sdk/samples/vst-hosting/audiohost",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost"
+				},
+				{
+					"build" : "cmake/vst_cmake/public.sdk/samples/vst-hosting/editorhost",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost"
+				},
+				{
+					"build" : "cmake/vst_cmake/public.sdk/samples/vst-hosting/validator",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "project_source/cmake/vst_cmake",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "project_source/cmake/vst_cmake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/vstgui4/vstgui",
+					"childIndexes" : 
+					[
+						11,
+						12,
+						13
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui"
+				},
+				{
+					"build" : "cmake/vst_cmake/vstgui4/vstgui/lib",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/vstgui4/vstgui/uidescription",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/uidescription",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "cmake/vst_cmake/vstgui4/vstgui/tools",
+					"childIndexes" : 
+					[
+						14
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools"
+				},
+				{
+					"build" : "cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 1,
+					"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASE_KM_Caverb_UNIVERSAL"
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"name" : "ASE_KM_Caverb_VST",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "smtg_pluginterfaces",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "smtg_base",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "smtg_public_sdk",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 9,
+					"id" : "ASE_KM_Caverb_VST::@38992bb1aadedcf93286",
+					"jsonFile" : "target-ASE_KM_Caverb_VST-Debug-f949f88552432f3a15c7.json",
+					"name" : "ASE_KM_Caverb_VST",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "base::@c74692c1827f33861d65",
+					"jsonFile" : "target-base-Debug-e168b876afa889eddab5.json",
+					"name" : "base",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pluginterfaces::@de2134b4c25d8dd8b973",
+					"jsonFile" : "target-pluginterfaces-Debug-7d27508ed21e0bfeca96.json",
+					"name" : "pluginterfaces",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sdk::@216771f3034513c86889",
+					"jsonFile" : "target-sdk-Debug-10bf214703c76b381261.json",
+					"name" : "sdk",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "uidesccompressor::@060baa6d9369bcfb8279",
+					"jsonFile" : "target-uidesccompressor-Debug-96d350aa74212a860567.json",
+					"name" : "uidesccompressor",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "validator::@f15499223eb6d6f81789",
+					"jsonFile" : "target-validator-Debug-559abf03b9536722c2e9.json",
+					"name" : "validator",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "vstgui::@96ea5e6a1399a2d258e7",
+					"jsonFile" : "target-vstgui-Debug-3de1846a6883a556c18b.json",
+					"name" : "vstgui",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "vstgui_support::@3996d89d3b088a936272",
+					"jsonFile" : "target-vstgui_support-Debug-0a0e96f6a035cba1d94f.json",
+					"name" : "vstgui_support",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "vstgui_uidescription::@6463756df16f1c826622",
+					"jsonFile" : "target-vstgui_uidescription-Debug-77606bd5b9ad7cc83e1d.json",
+					"name" : "vstgui_uidescription",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+		"source" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

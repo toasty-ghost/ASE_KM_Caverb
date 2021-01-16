@@ -1,0 +1,1493 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64 /IGNORE:4221",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/vstgui.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_compile_options",
+			"include",
+			"target_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/CMakeLists.txt",
+			"CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake",
+			"cmake/vst_cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 298,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 218,
+				"parent" : 2
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 24,
+				"parent" : 4
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 85,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 87,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 79,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 300,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 128,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "/ZI"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/MDd"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "DEBUG"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "VSTGUI_ENABLE_DEPRECATED_METHODS=1"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "VSTGUI_LIVE_EDITING"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				6,
+				9,
+				11,
+				14,
+				16,
+				18,
+				21,
+				23,
+				25,
+				27,
+				29,
+				32,
+				34,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				93,
+				95,
+				97,
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				122,
+				148,
+				151,
+				155,
+				157,
+				159,
+				161,
+				163,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				182,
+				184
+			]
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libraries"
+	},
+	"id" : "vstgui::@96ea5e6a1399a2d258e7",
+	"name" : "vstgui",
+	"nameOnDisk" : "vstgui.lib",
+	"paths" : 
+	{
+		"build" : "cmake/vst_cmake/vstgui4/vstgui/lib",
+		"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "animation",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				150,
+				151,
+				152,
+				153,
+				154
+			]
+		},
+		{
+			"name" : "controls",
+			"sourceIndexes" : 
+			[
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92
+			]
+		},
+		{
+			"name" : "platform",
+			"sourceIndexes" : 
+			[
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147
+			]
+		},
+		{
+			"name" : "platform\\common",
+			"sourceIndexes" : 
+			[
+				148,
+				149,
+				155,
+				156
+			]
+		},
+		{
+			"name" : "platform\\win32\\direct2d",
+			"sourceIndexes" : 
+			[
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164
+			]
+		},
+		{
+			"name" : "platform\\win32",
+			"sourceIndexes" : 
+			[
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/animations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/animations.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/animator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/animator.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/ianimationtarget.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/itimingfunction.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/timingfunctions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/animation/timingfunctions.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/algorithm.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cbitmap.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cbitmap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cbitmapfilter.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cbitmapfilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cbuttonstate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ccolor.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ccolor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdatabrowser.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdatabrowser.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdrawcontext.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdrawcontext.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdrawdefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdrawmethods.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdrawmethods.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdropsource.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cdropsource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cfileselector.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cfileselector.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cfont.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cfont.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cframe.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cframe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgradient.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgradientview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgradientview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgraphicspath.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgraphicspath.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cgraphicstransform.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/clayeredviewcontainer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/clayeredviewcontainer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/clinestyle.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/clinestyle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/coffscreencontext.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/coffscreencontext.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cautoanimation.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cautoanimation.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cbuttons.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cbuttons.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ccolorchooser.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ccolorchooser.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ccontrol.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ccontrol.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cfontchooser.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cfontchooser.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cknob.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cknob.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/clistcontrol.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/clistcontrol.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cmoviebitmap.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cmoviebitmap.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cmoviebutton.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cmoviebutton.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/coptionmenu.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/coptionmenu.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cparamdisplay.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cparamdisplay.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cscrollbar.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cscrollbar.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csearchtextedit.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csearchtextedit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csegmentbutton.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csegmentbutton.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cslider.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cslider.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cspecialdigit.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cspecialdigit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csplashscreen.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/csplashscreen.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cstringlist.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cstringlist.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cswitch.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cswitch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ctextedit.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ctextedit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ctextlabel.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ctextlabel.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cvumeter.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cvumeter.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cxypad.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/cxypad.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/icommandmenuitemtarget.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/icontrollistener.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/ioptionmenulistener.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/controls/itextlabellistener.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/copenglview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/copenglview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cpoint.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cpoint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/crect.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/crect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cresourcedescription.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/crowcolumnview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/crowcolumnview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cscrollview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cscrollview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cshadowviewcontainer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cshadowviewcontainer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/csplitview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/csplitview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cstring.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cstring.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ctabview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ctabview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ctooltipsupport.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ctooltipsupport.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cview.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cviewcontainer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cviewcontainer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cvstguitimer.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/cvstguitimer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/dragging.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/dispatchlist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/genericstringlistdatabrowsersource.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/genericstringlistdatabrowsersource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/idatabrowserdelegate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/idatapackage.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/idependency.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/ifocusdrawing.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/iscalefactorchangedlistener.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/itouchevent.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/iviewlistener.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/malloc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/optional.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformbitmap.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformfont.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformframe.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformframecallback.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformopenglview.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformoptionmenu.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformresourceinputstream.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformstring.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformtextedit.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformtimer.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/iplatformviewlayer.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/platform_macos.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/platform_win32.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/platform_x11.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/std_unorderedmap.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/common/genericoptionmenu.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/common/genericoptionmenu.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/vstguibase.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/vstguidebug.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/vstguidebug.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/vstguifwd.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/vstkeycode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/common/fileresourceinputstream.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/common/fileresourceinputstream.h",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dbitmap.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dbitmap.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2ddrawcontext.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2ddrawcontext.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dfont.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dfont.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dgraphicspath.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/direct2d/d2dgraphicspath.h",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32bitmapbase.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32dll.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32datapackage.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32datapackage.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32dragging.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32dragging.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32frame.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32frame.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32openglview.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32openglview.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32optionmenu.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32optionmenu.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32support.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32support.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32textedit.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/win32textedit.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/winfileselector.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/winstring.cpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/winstring.h",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/platform/win32/wintimer.cpp",
+			"sourceGroupIndex" : 6
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

@@ -1,0 +1,270 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/uidesccompressor.exe"
+		},
+		{
+			"path" : "bin/uidesccompressor.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"add_compile_options",
+			"include",
+			"target_compile_definitions",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/CMakeLists.txt",
+			"CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake",
+			"cmake/vst_cmake/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 218,
+				"parent" : 3
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 24,
+				"parent" : 5
+			},
+			{
+				"file" : 2,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 85,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 87,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 79,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 128,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/ZI"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "/MDd"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				},
+				{
+					"fragment" : "-std:c++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 13,
+					"define" : "DEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "VSTGUI_ENABLE_DEPRECATED_METHODS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "VSTGUI_LIVE_EDITING"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 14,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/../../.."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "vstgui::@96ea5e6a1399a2d258e7"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "vstgui_uidescription::@6463756df16f1c826622"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "VSTGUI Tools"
+	},
+	"id" : "uidesccompressor::@060baa6d9369bcfb8279",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /MDd /Zi /Ob0 /Od /RTC1",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "..\\..\\..\\..\\..\\..\\lib\\vstgui.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "..\\..\\..\\..\\..\\..\\lib\\vstgui_uidescription.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "..\\..\\..\\..\\..\\..\\lib\\vstgui.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "uidesccompressor",
+	"nameOnDisk" : "uidesccompressor.exe",
+	"paths" : 
+	{
+		"build" : "cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor",
+		"source" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

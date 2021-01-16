@@ -1,0 +1,272 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/vstgui_support.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"add_compile_options",
+			"include",
+			"add_definitions",
+			"include_directories",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"cmake/vst_cmake/CMakeLists.txt",
+			"CMakeLists.txt",
+			"C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 185,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 187,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 218,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 80,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 85,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 87,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 174,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 186,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/fp:fast"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-DDEVELOPMENT=1"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "/ZI"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/MDd"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-DSMTG_RENAME_ASSERT=1"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "VSTGUI_DIRECT2D_SUPPORT=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "vstgui::@96ea5e6a1399a2d258e7"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "vstgui_uidescription::@6463756df16f1c826622"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libraries"
+	},
+	"id" : "vstgui_support::@3996d89d3b088a936272",
+	"name" : "vstgui_support",
+	"nameOnDisk" : "vstgui_support.lib",
+	"paths" : 
+	{
+		"build" : "cmake/vst_cmake",
+		"source" : "cmake/vst_cmake"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				6
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3groupcontroller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3groupcontroller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3padcontroller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3padcontroller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3editor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/plugin-bindings/vst3editor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/source/vst/vstguieditor.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

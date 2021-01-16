@@ -48,7 +48,7 @@ set(VST_SDK_BUILD TRUE)# <-- set TRUE or FALSE
 #
 # ---------------------------------------------------------------------------------
 # --- the name of the project must be valid CMAKE name: must not contain spaces or numbers
-set(PLUGIN_PROJECT_NAME ase_km_kaboose_freshstart)	# <-- set PROJECT NAME with or without quotes
+set(PLUGIN_PROJECT_NAME ASE_KM_Caverb)	# <-- set PROJECT NAME with or without quotes
 
 # --- the name of the PLUGIN as you want it to appear in DAW menus for the user
 set(PLUGIN_NAME "Caverb")	# <-- set PLUGIN NAME with quotes; ok to have spaces or numbers if you like

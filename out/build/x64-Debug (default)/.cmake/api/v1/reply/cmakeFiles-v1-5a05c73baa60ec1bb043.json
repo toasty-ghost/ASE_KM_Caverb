@@ -1,0 +1,305 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/CMakeFiles/3.18.20081302-MSVC_2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/CMakeFiles/3.18.20081302-MSVC_2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/CMakeFiles/3.18.20081302-MSVC_2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/vst_cmake/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_DetectPlatform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddVST3Library.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddSMTGLibrary.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/UniversalBinary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Bundle.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/ExportedSymbols.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PrefixHeader.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PlatformIOS.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PlatformToolset.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/CoreAudioSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AAXSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/VstGuiSupport.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/UniversalBinary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddVST3Options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SetupVST3LibraryDefaultPath.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddCommonOptions.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Platform_Windows.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/base/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddSubDirectories.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/audiohost/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/editorhost/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/CMakeLists.txt"
+		},
+		{
+			"path" : "project_source/cmake/vst_cmake/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/lib/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/uidescription/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindEXPAT.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb/out/build/x64-Debug (default)",
+		"source" : "C:/SDK/ALL_SDK/myprojects/ase_km_caverb"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
