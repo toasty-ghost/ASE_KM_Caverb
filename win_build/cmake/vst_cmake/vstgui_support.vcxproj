@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3AD8DBA3-EECB-3C7F-9919-29D61C7C42D2}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>vstgui_support</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\lib\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vstgui_support.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vstgui_support</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\lib\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vstgui_support.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vstgui_support</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_DIRECT2D_SUPPORT=1;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_DIRECT2D_SUPPORT=1;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OmitFramePointers>true</OmitFramePointers>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <StringPooling>true</StringPooling>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTGUI_DIRECT2D_SUPPORT=1;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTGUI_DIRECT2D_SUPPORT=1;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects\vstgui4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\cmake\vst_cmake\CMakeLists.txt">
+      <StdOutEncoding>UTF-8</StdOutEncoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.19\Modules\CMakePrintHelpers.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AAXSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddCommonOptions.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddSMTGLibrary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Library.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Options.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Bundle.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\CoreAudioSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\ExportedSymbols.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Global.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformIOS.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformToolset.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PrefixHeader.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_DetectPlatform.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_Platform_Windows.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SetupVST3LibraryDefaultPath.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\UniversalBinary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\VstGuiSupport.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.19\Modules\CMakePrintHelpers.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AAXSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddCommonOptions.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddSMTGLibrary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Library.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Options.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Bundle.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\CoreAudioSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\ExportedSymbols.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Global.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformIOS.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformToolset.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PrefixHeader.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_DetectPlatform.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_Platform_Windows.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SetupVST3LibraryDefaultPath.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\UniversalBinary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\VstGuiSupport.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3groupcontroller.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3groupcontroller.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3padcontroller.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3padcontroller.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3editor.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\plugin-bindings\vst3editor.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstguieditor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
+      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
+      <Project>{9E6086B2-C5B2-3554-80FC-FDD4A9663BB4}</Project>
+      <Name>vstgui</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
+      <Project>{6DE3FC6B-4E1A-3794-B5E6-449FB03E9E95}</Project>
+      <Name>vstgui_uidescription</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

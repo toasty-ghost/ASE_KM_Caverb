@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\conststringtable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\coreiids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\funknown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ustring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\conststringtable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\falignpop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\falignpush.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\fplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\fstrdefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ftypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\funknown.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\futils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\fvariant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\geoconstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ibstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\icloneable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ierrorcontext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ipersistent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ipluginbase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\istringresult.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\iupdatehandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\keycodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\pluginbasefwd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\smartpointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\typesizecheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ucolorspec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\base\ustring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\gui\iplugview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\gui\iplugviewcontentscalesupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstattributes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstaudioprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstautomationstate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstchannelcontextinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstcomponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstcontextmenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivsteditcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstevents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivsthostapplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstinterappaudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstmessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstmidicontrollers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstmidilearn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstnoteexpression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstparameterchanges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstparameterfunctionname.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstphysicalui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstpluginterfacesupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstplugview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstprefetchablesupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstprocesscontext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstrepresentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\ivstunits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\vstpresetkeys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\vstpshpack4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\vstspeaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\vst\vsttypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\pluginterfaces\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{64781DA8-1A6D-3398-8409-358D2D7286AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8F2D7114-CC35-3C28-973D-687BB543C93A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

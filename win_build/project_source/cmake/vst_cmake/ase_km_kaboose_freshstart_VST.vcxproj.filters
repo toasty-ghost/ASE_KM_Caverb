@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginbase.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugincore.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugingui.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginparameter.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\factory.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\customparameters.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\vst3plugin.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customcontrols.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customviews.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.cpp">
+      <Filter>VST3SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\db2lin.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\deZipper.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\lin2db.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\guiconstants.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginbase.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugincore.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugindescription.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugingui.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginparameter.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginstructures.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\customparameters.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\channelformats.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\vst3plugin.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\atomicops.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customcontrols.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\readerwriterqueue.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customviews.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.h">
+      <Filter>VST3SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\db2lin.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\deZipper.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\lin2db.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\win\vst\PluginGUIMain.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CustomVSTGUI">
+      <UniqueIdentifier>{E15AE9C5-8381-3B7A-B405-66353810A321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PluginKernel">
+      <UniqueIdentifier>{8428E322-5717-31B7-A1BB-8C8D8C79B369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8F2D7114-CC35-3C28-973D-687BB543C93A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3Core">
+      <UniqueIdentifier>{521DD41C-6141-3EDF-971F-7B0130A79F6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3SDK">
+      <UniqueIdentifier>{00FE4205-1EAD-3B7B-B17E-2B9E1DBDF454}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\resources\PluginGUI.uidesc">
+      <Filter>PluginKernel</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakePrintHelpers.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AAXSupport.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddCommonOptions.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddSMTGLibrary.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddVST3Library.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddVST3Options.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Bundle.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/CoreAudioSupport.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/ExportedSymbols.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/Global.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PlatformIOS.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PlatformToolset.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/PrefixHeader.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_DetectPlatform.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Platform_Windows.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SetupVST3LibraryDefaultPath.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/UniversalBinary.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/VstGuiSupport.cmake
+C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt

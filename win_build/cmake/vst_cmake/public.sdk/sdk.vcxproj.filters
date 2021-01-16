@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\commoniids.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\openurl.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\pluginview.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\threadchecker_linux.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\threadchecker_win32.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\pluginfactory.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\vst2persistence.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstaudioeffect.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbus.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponent.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponentbase.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteditcontroller.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstinitiids.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstnoteexpressiontypes.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstparameters.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstpresetfile.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstrepresentation.cpp">
+      <Filter>public.sdk</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\openurl.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\pluginview.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\common\threadchecker.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\pluginfactory.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\processcontextrequirements.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\ringbuffer.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\utility\vst2persistence.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstaudioeffect.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbus.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstbypassprocessor.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponent.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstcomponentbase.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteditcontroller.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsteventshelper.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vsthelpers.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstnoteexpressiontypes.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstparameters.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstpresetfile.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstrepresentation.h">
+      <Filter>public.sdk</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="public.sdk">
+      <UniqueIdentifier>{179FA830-F315-35E5-854C-E70B4DB198EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

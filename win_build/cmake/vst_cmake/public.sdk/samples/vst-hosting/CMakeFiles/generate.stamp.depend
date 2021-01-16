@@ -1,0 +1,3 @@
+# CMake generation dependency list for this directory.
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/AddSubDirectories.cmake
+C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/CMakeLists.txt
