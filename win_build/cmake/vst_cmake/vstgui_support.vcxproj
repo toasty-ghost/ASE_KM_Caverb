@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3AD8DBA3-EECB-3C7F-9919-29D61C7C42D2}</ProjectGuid>
+    <ProjectGuid>{93B5F0A7-0214-32CC-87C5-6FFBF2801E72}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -41,11 +41,11 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\lib\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\lib\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vstgui_support.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vstgui_support</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\lib\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\lib\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vstgui_support.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vstgui_support</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
@@ -125,11 +125,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\cmake\vst_cmake\CMakeLists.txt">
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\cmake\vst_cmake\CMakeLists.txt">
       <StdOutEncoding>UTF-8</StdOutEncoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/cmake/vst_cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -138,11 +138,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.19\Modules\CMakePrintHelpers.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AAXSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddCommonOptions.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddSMTGLibrary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Library.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Options.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Bundle.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\CoreAudioSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\ExportedSymbols.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Global.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformIOS.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformToolset.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PrefixHeader.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_DetectPlatform.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_Platform_Windows.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SetupVST3LibraryDefaultPath.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\UniversalBinary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\VstGuiSupport.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/cmake/vst_cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -151,7 +151,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.19\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.19\Modules\CMakePrintHelpers.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AAXSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddCommonOptions.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddSMTGLibrary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Library.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\AddVST3Options.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Bundle.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\CoreAudioSupport.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\ExportedSymbols.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\Global.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformIOS.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PlatformToolset.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\PrefixHeader.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_DetectPlatform.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SMTG_Platform_Windows.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\SetupVST3LibraryDefaultPath.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\UniversalBinary.cmake;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\cmake\modules\VstGuiSupport.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -165,18 +165,18 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstguieditor.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
-      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\ZERO_CHECK.vcxproj">
+      <Project>{239619A0-CCE1-31C8-B64F-5F8CAB67575C}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
-      <Project>{9E6086B2-C5B2-3554-80FC-FDD4A9663BB4}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
+      <Project>{F5E5891B-C991-3F6B-A060-284E45753474}</Project>
       <Name>vstgui</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
-      <Project>{6DE3FC6B-4E1A-3794-B5E6-449FB03E9E95}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
+      <Project>{78EB0AA9-992C-301B-A9C6-7A5A7499FEFE}</Project>
       <Name>vstgui_uidescription</Name>
     </ProjectReference>
   </ItemGroup>

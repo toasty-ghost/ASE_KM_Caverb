@@ -117,7 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <Filter Include="public.sdk">
-      <UniqueIdentifier>{179FA830-F315-35E5-854C-E70B4DB198EE}</UniqueIdentifier>
+      <UniqueIdentifier>{3090A4F2-1E53-311A-8C59-4D97E8B915FA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

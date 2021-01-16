@@ -18,7 +18,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{638CFDF6-AD94-3133-A83B-4159FC71DF5D}</ProjectGuid>
+    <ProjectGuid>{71009847-F556-33DA-9533-6C2E077A7E70}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -50,19 +50,19 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">uidesccompressor.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">uidesccompressor</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">uidesccompressor.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">uidesccompressor</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\ReleaseLTO\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\ReleaseLTO\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">uidesccompressor.dir\ReleaseLTO\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">uidesccompressor</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">.exe</TargetExt>
@@ -107,8 +107,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Debug/uidesccompressor.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/bin/Debug/uidesccompressor.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Debug/uidesccompressor.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/bin/Debug/uidesccompressor.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -156,8 +156,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Release/uidesccompressor.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/bin/Release/uidesccompressor.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Release/uidesccompressor.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/bin/Release/uidesccompressor.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -201,9 +201,9 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/ReleaseLTO/uidesccompressor.lib</ImportLibrary>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/ReleaseLTO/uidesccompressor.lib</ImportLibrary>
       <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/bin/ReleaseLTO/uidesccompressor.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/bin/ReleaseLTO/uidesccompressor.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -215,7 +215,7 @@
       <StdOutEncoding>UTF-8</StdOutEncoding>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -224,11 +224,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -237,11 +237,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/vstgui4/vstgui/tools/uidesccompressor/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/vstgui4/vstgui/tools/uidesccompressor/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -250,7 +250,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\tools\uidesccompressor\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='ReleaseLTO|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -258,18 +258,18 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\SDK\ALL_SDK\myprojects\vstgui4\vstgui\tools\uidesccompressor\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
-      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\ZERO_CHECK.vcxproj">
+      <Project>{239619A0-CCE1-31C8-B64F-5F8CAB67575C}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
-      <Project>{9E6086B2-C5B2-3554-80FC-FDD4A9663BB4}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
+      <Project>{F5E5891B-C991-3F6B-A060-284E45753474}</Project>
       <Name>vstgui</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
-      <Project>{6DE3FC6B-4E1A-3794-B5E6-449FB03E9E95}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
+      <Project>{78EB0AA9-992C-301B-A9C6-7A5A7499FEFE}</Project>
       <Name>vstgui_uidescription</Name>
     </ProjectReference>
   </ItemGroup>

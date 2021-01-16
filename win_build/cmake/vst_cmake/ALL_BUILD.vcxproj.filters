@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\cmake\vst_cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\cmake\vst_cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

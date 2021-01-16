@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ase_km_kaboose_freshstart_UNIVERSAL")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ASE_KM_Caverb_UNIVERSAL")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/audiohost/cmake_install.cmake")
-  include("C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/editorhost/cmake_install.cmake")
-  include("C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/cmake_install.cmake")
+  include("C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/audiohost/cmake_install.cmake")
+  include("C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/editorhost/cmake_install.cmake")
+  include("C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/cmake_install.cmake")
 
 endif()
 

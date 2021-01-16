@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{168B6FD2-D6D6-3915-ABBB-694EAECB418A}</ProjectGuid>
+    <ProjectGuid>{606EFEAB-F9E5-3399-8194-0CCB34F09049}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -41,13 +41,13 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">validator.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">validator</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">validator.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">validator</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
@@ -91,8 +91,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Debug/validator.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/bin/Debug/validator.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Debug/validator.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/bin/Debug/validator.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -140,8 +140,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Release/validator.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/bin/Release/validator.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Release/validator.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/bin/Release/validator.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -153,7 +153,7 @@
       <StdOutEncoding>UTF-8</StdOutEncoding>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -162,11 +162,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/public.sdk/samples/vst-hosting/validator/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/public.sdk/samples/vst-hosting/validator/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -175,7 +175,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -276,22 +276,22 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\hosting\module_win32.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
-      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\ZERO_CHECK.vcxproj">
+      <Project>{239619A0-CCE1-31C8-B64F-5F8CAB67575C}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\base\base.vcxproj">
-      <Project>{C7696F15-D456-3213-9B6B-8002887C8F2D}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\base\base.vcxproj">
+      <Project>{A70915C2-22A7-37D1-A669-9E1D2745FE08}</Project>
       <Name>base</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
-      <Project>{148CE4C4-9755-387B-A765-2B4F9DFEE497}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
+      <Project>{FE9FF6D1-348F-3FC8-BD4E-BFC6315AD0C1}</Project>
       <Name>pluginterfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\public.sdk\sdk.vcxproj">
-      <Project>{C6779F1C-235D-3C25-94F8-F9AA01E459F0}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\public.sdk\sdk.vcxproj">
+      <Project>{57D2591E-27E9-3EF9-8847-B49A2F887E1D}</Project>
       <Name>sdk</Name>
     </ProjectReference>
   </ItemGroup>

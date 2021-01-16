@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3DB0A444-8AC3-33BE-B124-B942E1A63B95}</ProjectGuid>
+    <ProjectGuid>{ED684D93-6FA0-3333-A5C7-CE0B5A08BA14}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -69,7 +69,7 @@
       <StdOutEncoding>UTF-8</StdOutEncoding>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -78,11 +78,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\pluginterfaces\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\pluginterfaces\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/pluginterfaces/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/pluginterfaces/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -91,21 +91,21 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\pluginterfaces\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\pluginterfaces\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
-      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\ZERO_CHECK.vcxproj">
+      <Project>{239619A0-CCE1-31C8-B64F-5F8CAB67575C}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
-      <Project>{148CE4C4-9755-387B-A765-2B4F9DFEE497}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
+      <Project>{FE9FF6D1-348F-3FC8-BD4E-BFC6315AD0C1}</Project>
       <Name>pluginterfaces</Name>
     </ProjectReference>
   </ItemGroup>

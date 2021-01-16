@@ -11,8 +11,8 @@
 #define AU_COCOA_VIEW_STRING STR(AU_COCOA_VIEW_NAME)
 
 // --- AU Plugin Cocoa View Names (flat namespace) 
-#define AU_COCOA_VIEWFACTORY_NAME AUCocoaViewFactory_E393BB0AF6833273999D1ED3DC4D8169
-#define AU_COCOA_VIEW_NAME AUCocoaView_E393BB0AF6833273999D1ED3DC4D8169
+#define AU_COCOA_VIEWFACTORY_NAME AUCocoaViewFactory_2C17974BB1BB3AD8895362FA2160DCF2
+#define AU_COCOA_VIEW_NAME AUCocoaView_2C17974BB1BB3AD8895362FA2160DCF2
 
 // --- BUNDLE IDs (MacOS Only) 
 const char* kAAXBundleID = "developer.aax.asekmcaverb.bundleID";
@@ -22,13 +22,13 @@ const char* kVST3BundleID = "developer.vst3.asekmcaverb.bundleID";
 // --- Plugin Names 
 const char* kPluginName = "Caverb";
 const char* kShortPluginName = "Caverb";
-const char* kAUBundleName = "ASE_KM_Caverb";
+const char* kAUBundleName = "ase_km_caverb";
 
 // --- Plugin Type 
 const pluginType kPluginType = pluginType::kFXPlugin;
 
 // --- VST3 UUID 
-const char* kVSTFUID = "{e393bb0a-f683-3273-999d-1ed3dc4d8169}";
+const char* kVSTFUID = "{2c17974b-b1bb-3ad8-8953-62fa2160dcf2}";
 
 // --- 4-char codes 
 const int32_t kFourCharCode = 'TGAp';

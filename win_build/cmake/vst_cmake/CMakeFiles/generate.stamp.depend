@@ -18,4 +18,4 @@ C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SMTG_Platform_Windows.cmake
 C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/SetupVST3LibraryDefaultPath.cmake
 C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/UniversalBinary.cmake
 C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/VstGuiSupport.cmake
-C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/cmake/vst_cmake/CMakeLists.txt
+C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/cmake/vst_cmake/CMakeLists.txt

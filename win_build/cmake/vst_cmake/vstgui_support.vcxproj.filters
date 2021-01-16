@@ -26,14 +26,14 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\cmake\vst_cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\cmake\vst_cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{64781DA8-1A6D-3398-8409-358D2D7286AB}</UniqueIdentifier>
+      <UniqueIdentifier>{7D0124A5-0363-311C-BD63-B509E25D0A9A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{8F2D7114-CC35-3C28-973D-687BB543C93A}</UniqueIdentifier>
+      <UniqueIdentifier>{0EEF79D7-3376-3EE4-855E-84D1F2D0C78D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

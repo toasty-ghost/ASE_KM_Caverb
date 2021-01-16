@@ -1,4 +1,4 @@
-# Install script for directory: C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/project_source/cmake/vst_cmake
+# Install script for directory: C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/project_source/cmake/vst_cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

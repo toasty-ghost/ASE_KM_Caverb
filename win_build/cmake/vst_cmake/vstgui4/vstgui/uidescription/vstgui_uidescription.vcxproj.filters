@@ -393,13 +393,13 @@
   </ItemGroup>
   <ItemGroup>
     <Filter Include="detail">
-      <UniqueIdentifier>{D08C75E9-5252-35DB-AA98-7121DD1E3926}</UniqueIdentifier>
+      <UniqueIdentifier>{AEB4E44B-C60B-3241-ACAA-638F5779D670}</UniqueIdentifier>
     </Filter>
     <Filter Include="editing">
-      <UniqueIdentifier>{C7C29AC2-D496-3F96-9032-3E2ADCAB489E}</UniqueIdentifier>
+      <UniqueIdentifier>{82BC0161-A500-39AC-8226-3D24787688F9}</UniqueIdentifier>
     </Filter>
     <Filter Include="viewcreator">
-      <UniqueIdentifier>{4E12170F-0035-3F16-8810-B80F947BC0CD}</UniqueIdentifier>
+      <UniqueIdentifier>{78ED3EAF-016B-349F-9802-C2B3D0B1EA65}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

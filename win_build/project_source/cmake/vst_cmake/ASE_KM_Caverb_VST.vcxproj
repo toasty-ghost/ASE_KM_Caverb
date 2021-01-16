@@ -14,11 +14,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C35D9BEB-8ADA-30EC-841F-B69C1670C67B}</ProjectGuid>
+    <ProjectGuid>{691F5BA1-D68A-319D-A8AC-95B9B28EB307}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
-    <ProjectName>ASE_KM_Caverb</ProjectName>
+    <ProjectName>ASE_KM_Caverb_VST</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -41,22 +41,22 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\VST3\Debug\ase_km_kaboose_freshstart_VST.vst3\Contents\x86_64-win\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ase_km_kaboose_freshstart_VST.dir\Debug\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ase_km_kaboose_freshstart_VST</TargetName>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\VST3\Debug\ASE_KM_Caverb_VST.vst3\Contents\x86_64-win\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ASE_KM_Caverb_VST.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ASE_KM_Caverb_VST</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.vst3</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\VST3\Release\ase_km_kaboose_freshstart_VST.vst3\Contents\x86_64-win\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ase_km_kaboose_freshstart_VST.dir\Release\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ase_km_kaboose_freshstart_VST</TargetName>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\VST3\Release\ASE_KM_Caverb_VST.vst3\Contents\x86_64-win\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ASE_KM_Caverb_VST.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">ASE_KM_Caverb_VST</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.vst3</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
@@ -71,15 +71,15 @@
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
       <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
-      <PreprocessorDefinitions>WIN32;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_LIVE_EDITING=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Debug";ase_km_kaboose_freshstart_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_LIVE_EDITING=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Debug";ASE_KM_Caverb_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_LIVE_EDITING=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Debug\";ase_km_kaboose_freshstart_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;DEVELOPMENT=1;SMTG_RENAME_ASSERT=1;VSTGUI_LIVE_EDITING=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Debug\";ASE_KM_Caverb_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -87,10 +87,9 @@
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreLinkEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/Contents/Resources
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/Contents/Resources
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -102,11 +101,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <PostBuildEvent>
       <Message>		Copy PlugIn.ico and desktop.ini and change their attributes.</Message>
       <Command>setlocal
-cd C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin
+cd C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
-C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Debug\validator.exe C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/Contents/x86_64-win/ase_km_kaboose_freshstart_VST.vst3
+C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Debug\validator.exe C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/Contents/x86_64-win/ASE_KM_Caverb_VST.vst3
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -115,7 +114,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/project_source/cmake/vst_cmake/../../resources/PluginGUI.uidesc C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/Contents/Resources
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/project_source/cmake/vst_cmake/../../resources/PluginGUI.uidesc C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/Contents/Resources
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -124,15 +123,15 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/doc/artwork/VST_Logo_Steinberg.ico C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/PlugIn.ico
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/doc/artwork/VST_Logo_Steinberg.ico C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/PlugIn.ico
 if %errorlevel% neq 0 goto :cmEnd
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/../templates/desktop.ini.in C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/desktop.ini
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/../templates/desktop.ini.in C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/desktop.ini
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/desktop.ini
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/desktop.ini
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3/PlugIn.ico
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3/PlugIn.ico
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Debug/ase_km_kaboose_freshstart_VST.vst3
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Debug/ASE_KM_Caverb_VST.vst3
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -147,8 +146,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64 /EXPORT:GetPluginFactory</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Debug/ase_km_kaboose_freshstart_VST.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/WIN_PDB64/Debug/ase_km_kaboose_freshstart_VST.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Debug/ASE_KM_Caverb_VST.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/WIN_PDB64/Debug/ASE_KM_Caverb_VST.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -157,7 +156,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <DisableSpecificWarnings>4221</DisableSpecificWarnings>
@@ -175,15 +174,15 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <StringPooling>true</StringPooling>
       <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
-      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Release";ase_km_kaboose_freshstart_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Release";ASE_KM_Caverb_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
     </ClCompile>
     <ResourceCompile>
-      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Release\";ase_km_kaboose_freshstart_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;RELEASE=1;SMTG_RENAME_ASSERT=1;VSTPLUGIN=1;VSTGUI_DIRECT2D_SUPPORT=1;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR=\"Release\";ASE_KM_Caverb_VST_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\SDK\ALL_SDK\VST_SDK\VST3_SDK;C:\SDK\ALL_SDK\myprojects;C:\SDK\ALL_SDK\myprojects\vstgui4;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginKernel;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\PluginObjects;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\CustomControls;C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\..\..\source\vst_source;C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\base\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -191,10 +190,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ProxyFileName>%(Filename)_p.c</ProxyFileName>
     </Midl>
     <PreLinkEvent>
-      <Message>
-      </Message>
+      <Message></Message>
       <Command>setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/Contents/Resources
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/Contents/Resources
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -206,11 +204,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <PostBuildEvent>
       <Message>		Copy PlugIn.ico and desktop.ini and change their attributes.</Message>
       <Command>setlocal
-cd C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin
+cd C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin
 if %errorlevel% neq 0 goto :cmEnd
 C:
 if %errorlevel% neq 0 goto :cmEnd
-C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\bin\Release\validator.exe C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/Contents/x86_64-win/ase_km_kaboose_freshstart_VST.vst3
+C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\bin\Release\validator.exe C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/Contents/x86_64-win/ASE_KM_Caverb_VST.vst3
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -219,7 +217,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/project_source/cmake/vst_cmake/../../resources/PluginGUI.uidesc C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/Contents/Resources
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/project_source/cmake/vst_cmake/../../resources/PluginGUI.uidesc C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/Contents/Resources
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -228,15 +226,15 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/doc/artwork/VST_Logo_Steinberg.ico C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/PlugIn.ico
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/doc/artwork/VST_Logo_Steinberg.ico C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/PlugIn.ico
 if %errorlevel% neq 0 goto :cmEnd
-"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/../templates/desktop.ini.in C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/desktop.ini
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/SDK/ALL_SDK/VST_SDK/VST3_SDK/cmake/modules/../templates/desktop.ini.in C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/desktop.ini
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/desktop.ini
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/desktop.ini
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3/PlugIn.ico
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3/PlugIn.ico
 if %errorlevel% neq 0 goto :cmEnd
-attrib +s C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/VST3/Release/ase_km_kaboose_freshstart_VST.vst3
+attrib +s C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/VST3/Release/ASE_KM_Caverb_VST.vst3
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -251,8 +249,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalOptions>%(AdditionalOptions) /machine:x64 /EXPORT:GetPluginFactory</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/lib/Release/ase_km_kaboose_freshstart_VST.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/cmake/vst_cmake/WIN_PDB64/Release/ase_km_kaboose_freshstart_VST.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/lib/Release/ASE_KM_Caverb_VST.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/cmake/vst_cmake/WIN_PDB64/Release/ASE_KM_Caverb_VST.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -260,11 +258,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\cmake\vst_cmake\CMakeLists.txt">
+    <CustomBuild Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\cmake\vst_cmake\CMakeLists.txt">
       <StdOutEncoding>UTF-8</StdOutEncoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/project_source/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/project_source/cmake/vst_cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/project_source/cmake/vst_cmake/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/project_source/cmake/vst_cmake/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -273,11 +271,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\project_source\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\project_source\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/project_source/cmake/vst_cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/project_source/cmake/vst_cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart -BC:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ase_km_kaboose_freshstart/win_build/project_source/cmake/vst_cmake/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb -BC:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build --check-stamp-file C:/SDK/ALL_SDK/myprojects/ASE_KM_Caverb/win_build/project_source/cmake/vst_cmake/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -286,84 +284,74 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\project_source\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\project_source\cmake\vst_cmake\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\db2lin.h" />
-    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\deZipper.h" />
-    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\lin2db.h" />
-    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.h" />
-    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\guiconstants.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginbase.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugincore.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugindescription.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugingui.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginparameter.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginstructures.h" />
-    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\db2lin.cpp" />
-    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\deZipper.cpp" />
-    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\lin2db.cpp" />
-    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.cpp" />
-    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginbase.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugincore.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\plugingui.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\PluginKernel\pluginparameter.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\factory.cpp" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\customparameters.h" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\customparameters.cpp" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\channelformats.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\vst3plugin.h" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\vst_source\vst3plugin.cpp" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\atomicops.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customcontrols.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\readerwriterqueue.h" />
-    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customviews.h" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customcontrols.cpp" />
-    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\source\CustomControls\customviews.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\guiconstants.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\pluginbase.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\plugincore.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\plugindescription.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\plugingui.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\pluginparameter.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\pluginstructures.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\pluginbase.cpp" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\plugincore.cpp" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\plugingui.cpp" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\pluginparameter.cpp" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\factory.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\customparameters.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\customparameters.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\channelformats.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\vst3plugin.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\vst_source\vst3plugin.cpp" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\atomicops.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\customcontrols.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\readerwriterqueue.h" />
+    <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\customviews.h" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\customcontrols.cpp" />
+    <ClCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\CustomControls\customviews.cpp" />
     <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.cpp" />
     <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.h" />
     <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\dllmain.cpp" />
-    <ResourceCompile Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\win\vst\PluginGUIMain.rc" />
-    <None Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\project_source\resources\PluginGUI.uidesc">
+    <ResourceCompile Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\win\vst\PluginGUIMain.rc" />
+    <None Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\resources\PluginGUI.uidesc">
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\ZERO_CHECK.vcxproj">
-      <Project>{DD15C5A8-019B-345A-A727-74A17A75838C}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\ZERO_CHECK.vcxproj">
+      <Project>{239619A0-CCE1-31C8-B64F-5F8CAB67575C}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\base\base.vcxproj">
-      <Project>{C7696F15-D456-3213-9B6B-8002887C8F2D}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\base\base.vcxproj">
+      <Project>{A70915C2-22A7-37D1-A669-9E1D2745FE08}</Project>
       <Name>base</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
-      <Project>{148CE4C4-9755-387B-A765-2B4F9DFEE497}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\pluginterfaces\pluginterfaces.vcxproj">
+      <Project>{FE9FF6D1-348F-3FC8-BD4E-BFC6315AD0C1}</Project>
       <Name>pluginterfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\public.sdk\sdk.vcxproj">
-      <Project>{C6779F1C-235D-3C25-94F8-F9AA01E459F0}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\public.sdk\sdk.vcxproj">
+      <Project>{57D2591E-27E9-3EF9-8847-B49A2F887E1D}</Project>
       <Name>sdk</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\validator.vcxproj">
-      <Project>{168B6FD2-D6D6-3915-ABBB-694EAECB418A}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\public.sdk\samples\vst-hosting\validator\validator.vcxproj">
+      <Project>{606EFEAB-F9E5-3399-8194-0CCB34F09049}</Project>
       <Name>validator</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
-      <Project>{9E6086B2-C5B2-3554-80FC-FDD4A9663BB4}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\lib\vstgui.vcxproj">
+      <Project>{F5E5891B-C991-3F6B-A060-284E45753474}</Project>
       <Name>vstgui</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui_support.vcxproj">
-      <Project>{3AD8DBA3-EECB-3C7F-9919-29D61C7C42D2}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui_support.vcxproj">
+      <Project>{93B5F0A7-0214-32CC-87C5-6FFBF2801E72}</Project>
       <Name>vstgui_support</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ase_km_kaboose_freshstart\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
-      <Project>{6DE3FC6B-4E1A-3794-B5E6-449FB03E9E95}</Project>
+    <ProjectReference Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\win_build\cmake\vst_cmake\vstgui4\vstgui\uidescription\vstgui_uidescription.vcxproj">
+      <Project>{78EB0AA9-992C-301B-A9C6-7A5A7499FEFE}</Project>
       <Name>vstgui_uidescription</Name>
     </ProjectReference>
   </ItemGroup>

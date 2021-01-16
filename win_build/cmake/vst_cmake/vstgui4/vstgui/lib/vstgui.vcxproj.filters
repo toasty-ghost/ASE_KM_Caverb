@@ -404,22 +404,22 @@
   </ItemGroup>
   <ItemGroup>
     <Filter Include="animation">
-      <UniqueIdentifier>{08932F36-6CF0-34B3-BECB-12780CDAAB04}</UniqueIdentifier>
+      <UniqueIdentifier>{759B6113-BBE7-3762-BDF7-A3C4D3CA3717}</UniqueIdentifier>
     </Filter>
     <Filter Include="controls">
-      <UniqueIdentifier>{C5149009-D066-331E-88D7-96561A1A4A6B}</UniqueIdentifier>
+      <UniqueIdentifier>{336E98AE-578D-3C89-AA7E-AD388F956AF1}</UniqueIdentifier>
     </Filter>
     <Filter Include="platform">
-      <UniqueIdentifier>{CF4A7437-005A-37FB-BD33-FF09B8D89340}</UniqueIdentifier>
+      <UniqueIdentifier>{34B60C87-A630-300B-B65A-09B031C14B0D}</UniqueIdentifier>
     </Filter>
     <Filter Include="platform\common">
-      <UniqueIdentifier>{93D1C4CF-CC6B-3E9B-ADF5-7E7F2D5737F1}</UniqueIdentifier>
+      <UniqueIdentifier>{F5042240-C794-3C81-BCDE-8A32E2AD2915}</UniqueIdentifier>
     </Filter>
     <Filter Include="platform\win32">
-      <UniqueIdentifier>{1BDA6476-96A7-30E0-8151-322F5F474292}</UniqueIdentifier>
+      <UniqueIdentifier>{16E54AD4-D071-3046-B6D1-AE7B70160B54}</UniqueIdentifier>
     </Filter>
     <Filter Include="platform\win32\direct2d">
-      <UniqueIdentifier>{D00F3B67-E847-328C-8BBD-D0491319EF05}</UniqueIdentifier>
+      <UniqueIdentifier>{7CB9210B-AF37-3135-962B-6123ADD58074}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
