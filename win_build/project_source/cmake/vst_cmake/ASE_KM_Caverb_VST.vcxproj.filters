@@ -34,6 +34,21 @@
     <ClCompile Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\db2lin.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\deZipper.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\lin2db.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\SDK\ALL_SDK\myprojects\ASE_KM_Caverb\project_source\source\PluginKernel\guiconstants.h">
@@ -80,6 +95,21 @@
     </ClInclude>
     <ClInclude Include="C:\SDK\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.h">
       <Filter>VST3SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_LPF.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\db2lin.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\deZipper.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\lin2db.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginKernel\tg_AAPFlite.h">
+      <Filter>PluginKernel</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
