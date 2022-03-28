@@ -1,13 +1,16 @@
 # ASE_KM_Caverb
 An algorithmic room reverb plugin, using a Feedback Delay Network of all-pass filters with adjustable frequency-dependent absorbency.
+
 ![image](https://user-images.githubusercontent.com/46981655/160453047-74259c6f-7afc-4e07-ad07-973a9590a579.png)
 
 
 ## Description
 Realistic and experimental reverberation time curves are synthesised from an input signal via a tapped delay line and unitary Hadamad matrix of recursive series all-pass filters. 
+
 ![AAPF Block Diagram](https://user-images.githubusercontent.com/46981655/160452174-e9824255-9226-4c9c-ade8-d5c4a676d295.png)
 
 The amplitude and delay of early & late reflections may be adjusted independently, thanks to energy compensated gain staging throughout the signal path.
+
 ![Energy Gain Equations](https://user-images.githubusercontent.com/46981655/160452274-e2329004-918a-4e65-8fbc-df622e390461.png)
 
 Includes 14 example presets, based on I3DL2 standard, for fast assessment of possibile effects.
