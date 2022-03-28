@@ -11,7 +11,7 @@ Realistic and experimental reverberation time curves are synthesised from an inp
 
 The amplitude and delay of early & late reflections may be adjusted independently, thanks to energy compensated gain staging throughout the signal path.
 
-![Energy Gain Equations](https://user-images.githubusercontent.com/46981655/160456035-940bb325-a938-4309-a4b3-875fa52346d2.png)
+<img src="https://user-images.githubusercontent.com/46981655/160456035-940bb325-a938-4309-a4b3-875fa52346d2.png" width="50%">
 
 
 Includes 14 example presets, based on I3DL2 standard, for fast assessment of possibile effects.
