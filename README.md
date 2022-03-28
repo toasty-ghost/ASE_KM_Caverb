@@ -25,9 +25,9 @@ Submitted coursework toward the achievement of an MSc in Audio Enginering at the
 ![kRoomVerb I3DL2 Absorbent APF Reverb Block Diagram](https://user-images.githubusercontent.com/46981655/160455810-c0a26e44-df8c-48fd-b3e9-c3f3db5ae535.png)
 
 ## Primary References
-Carpentier, T., Noisternig, M. and Warusfel, O. (2014) ‘Hybrid reverberation processor with perceptual control’, in 17th International Conference on Digital Audio Effects-DAFx-14, pp. 93–100.
-De Sena, E., Hacihabiboglu, H. and Cvetkovic, Z. (2011) ‘Scattering delay network: An interactive reverberator for computer games’, in Audio Engineering Society Conference: 41st International Conference: Audio for Games. Available at: https://www.aes.org/e-lib/browse.cfm?elib=15751 (Accessed: 18 January 2021).
-International Standards Organization (2003) Acoustics — Measurement of sound absorption in a reverberation room. BS EN ISO 354:2003. Available at: https://www.iso.org/standard/34545.html
-Jot, J.-M. and Chaigne, A. (1991) ‘Digital Delay Networks for Designing Artificial Reverberators’, in. Audio Engineering Society Convention 90, Audio Engineering Society. Available at: http://www.aes.org/e-lib/inst/browse.cfm?elib=5663
-Poletti, M.A. (1996) ‘An assisted reverberation system for controlling apparent room absorption and volume’, in Audio Engineering Society Convention 101. Audio Engineering Society Convention 101, Audio Engineering Society. Available at: https://www.aes.org/e-lib/browse.cfm?elib=7414
-Schlecht, S.J. and Habets, E.A.P. (2019) ‘Scattering in Feedback Delay Networks’, arXiv [cs.SD]. Available at: http://arxiv.org/abs/1912.08888
+- Carpentier, T., Noisternig, M. and Warusfel, O. (2014) ‘Hybrid reverberation processor with perceptual control’, in 17th International Conference on Digital Audio Effects-DAFx-14, pp. 93–100.
+- De Sena, E., Hacihabiboglu, H. and Cvetkovic, Z. (2011) ‘Scattering delay network: An interactive reverberator for computer games’, in Audio Engineering Society Conference: 41st International Conference: Audio for Games. Available at: https://www.aes.org/e-lib/browse.cfm?elib=15751 (Accessed: 18 January 2021).
+- International Standards Organization (2003) Acoustics — Measurement of sound absorption in a reverberation room. BS EN ISO 354:2003. Available at: https://www.iso.org/standard/34545.html
+- Jot, J.-M. and Chaigne, A. (1991) ‘Digital Delay Networks for Designing Artificial Reverberators’, in. Audio Engineering Society Convention 90, Audio Engineering Society. Available at: http://www.aes.org/e-lib/inst/browse.cfm?elib=5663
+- Poletti, M.A. (1996) ‘An assisted reverberation system for controlling apparent room absorption and volume’, in Audio Engineering Society Convention 101. Audio Engineering Society Convention 101, Audio Engineering Society. Available at: https://www.aes.org/e-lib/browse.cfm?elib=7414
+- Schlecht, S.J. and Habets, E.A.P. (2019) ‘Scattering in Feedback Delay Networks’, arXiv [cs.SD]. Available at: http://arxiv.org/abs/1912.08888
