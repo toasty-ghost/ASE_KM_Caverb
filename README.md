@@ -1,4 +1,4 @@
-# ASE_KM_Caverb
+# Caverb by Kyle Marriott
 An algorithmic room reverb plugin, using a Feedback Delay Network of all-pass filters with adjustable frequency-dependent absorbency.
 
 ![image](https://user-images.githubusercontent.com/46981655/160453047-74259c6f-7afc-4e07-ad07-973a9590a579.png)
