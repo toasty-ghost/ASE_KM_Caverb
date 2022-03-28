@@ -11,13 +11,18 @@ Realistic and experimental reverberation time curves are synthesised from an inp
 
 The amplitude and delay of early & late reflections may be adjusted independently, thanks to energy compensated gain staging throughout the signal path.
 
-![Energy Gain Equations](https://user-images.githubusercontent.com/46981655/160452274-e2329004-918a-4e65-8fbc-df622e390461.png)
+![Energy Gain Equations](https://user-images.githubusercontent.com/46981655/160456035-940bb325-a938-4309-a4b3-875fa52346d2.png)
+
 
 Includes 14 example presets, based on I3DL2 standard, for fast assessment of possibile effects.
 
 Written in C++ using the ASPiK framework (http://www.aspikplugins.com/), controlled via custom vector-based GUI created in Adobe Illustrator & Figma.
 
 Submitted coursework toward the achievement of an MSc in Audio Enginering at the University of Derby (https://www.derby.ac.uk/postgraduate/entertainment-engineering-courses/audio-engineering-msc/). Graded and reviewed by Bruce Wiggins of WigWare (https://www.brucewiggins.co.uk/)
+
+## Block Diagram of Signal Processing
+
+![kRoomVerb I3DL2 Absorbent APF Reverb Block Diagram](https://user-images.githubusercontent.com/46981655/160455810-c0a26e44-df8c-48fd-b3e9-c3f3db5ae535.png)
 
 ## Primary References
 Carpentier, T., Noisternig, M. and Warusfel, O. (2014) ‘Hybrid reverberation processor with perceptual control’, in 17th International Conference on Digital Audio Effects-DAFx-14, pp. 93–100.
