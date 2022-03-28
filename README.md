@@ -18,11 +18,13 @@ Includes 14 example presets, based on I3DL2 standard, for fast assessment of pos
 
 Written in C++ using the ASPiK framework (http://www.aspikplugins.com/), controlled via custom vector-based GUI created in Adobe Illustrator & Figma.
 
-Submitted coursework toward the achievement of an MSc in Audio Enginering at the University of Derby (https://www.derby.ac.uk/postgraduate/entertainment-engineering-courses/audio-engineering-msc/). Graded and reviewed by Bruce Wiggins of WigWare (https://www.brucewiggins.co.uk/)
+Submitted coursework toward the achievement of an MSc in Audio Enginering at the University of Derby (https://www.derby.ac.uk/postgraduate/entertainment-engineering-courses/audio-engineering-msc/). 
+Graded and reviewed by Bruce Wiggins of WigWare (https://www.brucewiggins.co.uk/)
 
 ## Block Diagram of Signal Processing
 
-![kRoomVerb I3DL2 Absorbent APF Reverb Block Diagram](https://user-images.githubusercontent.com/46981655/160455810-c0a26e44-df8c-48fd-b3e9-c3f3db5ae535.png)
+![Caverb_VST_blockdiagram](https://user-images.githubusercontent.com/46981655/160459413-9062e113-012e-411a-92d0-1417e1f0b0a9.png)
+
 
 ## Primary References
 - Carpentier, T., Noisternig, M. and Warusfel, O. (2014) ‘Hybrid reverberation processor with perceptual control’, in 17th International Conference on Digital Audio Effects-DAFx-14, pp. 93–100.
