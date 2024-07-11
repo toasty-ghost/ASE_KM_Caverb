@@ -1,6 +1,6 @@
 # Caverb by Kyle Marriott
 An algorithmic room reverb plugin, using a Feedback Delay Network of all-pass filters with adjustable frequency-dependent absorbency.
-Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under CC BY 4.0 
+Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 ![image](https://user-images.githubusercontent.com/46981655/160453047-74259c6f-7afc-4e07-ad07-973a9590a579.png)
 
