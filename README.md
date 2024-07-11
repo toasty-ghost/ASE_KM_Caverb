@@ -1,6 +1,5 @@
 # Caverb by Kyle Marriott
 An algorithmic room reverb plugin, using a Feedback Delay Network of all-pass filters with adjustable frequency-dependent absorbency.
-Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 ![image](https://user-images.githubusercontent.com/46981655/160453047-74259c6f-7afc-4e07-ad07-973a9590a579.png)
 
@@ -34,3 +33,6 @@ Graded and reviewed by Bruce Wiggins of WigWare (https://www.brucewiggins.co.uk/
 - Jot, J.-M. and Chaigne, A. (1991) ‘Digital Delay Networks for Designing Artificial Reverberators’, in. Audio Engineering Society Convention 90, Audio Engineering Society. Available at: http://www.aes.org/e-lib/inst/browse.cfm?elib=5663
 - Poletti, M.A. (1996) ‘An assisted reverberation system for controlling apparent room absorption and volume’, in Audio Engineering Society Convention 101. Audio Engineering Society Convention 101, Audio Engineering Society. Available at: https://www.aes.org/e-lib/browse.cfm?elib=7414
 - Schlecht, S.J. and Habets, E.A.P. (2019) ‘Scattering in Feedback Delay Networks’, arXiv [cs.SD]. Available at: http://arxiv.org/abs/1912.08888
+
+## License
+![image](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg) Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
