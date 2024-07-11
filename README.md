@@ -35,4 +35,9 @@ Graded and reviewed by Bruce Wiggins of WigWare (https://www.brucewiggins.co.uk/
 - Schlecht, S.J. and Habets, E.A.P. (2019) ‘Scattering in Feedback Delay Networks’, arXiv [cs.SD]. Available at: http://arxiv.org/abs/1912.08888
 
 ## License
-![image](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg) Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+![image](https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg) Caverb - an Absorbent Allpass FDN Room Reverb VST © 2020 by Kyle Marriott is licensed under Creative Commons Attribution 4.0 International.
+
+CC BY 4.0
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
